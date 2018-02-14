@@ -1,6 +1,4 @@
-Author: Jian Wang
-
-Date: 2-10-2018
+Author: Jian Wang (2-10-2018)
 
 ## SimGA帮助文档
 
